@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="text_init">Git tutorial</string>
+</resources>
